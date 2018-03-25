@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/hong-boy/koa2-multiparty.svg?branch=master)](https://travis-ci.org/hong-boy/koa2-multiparty)
 
 It's similar to 
-[connect-multiparty](https://github.com/expressjs/connect-multiparty), but koa2-multipart is for __KOA2__ only.
+[connect-multiparty](https://github.com/expressjs/connect-multiparty), but koa2-multiparty is for __KOA2__ only.
 
 This middleware will create temp files on your server and never clean them
 up. Thus you should not add this middleware to all routes; only to the ones

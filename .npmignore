@@ -1,0 +1,8 @@
+node_moduels/
+test/
+.editorconfig
+.gitignore
+.travis.yml
+.vcrmrc
+commitlint.config.js
+package-lock.json

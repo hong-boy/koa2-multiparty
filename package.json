@@ -1,7 +1,7 @@
 {
-  "name": "koa2-multipart",
+  "name": "koa2-multiparty",
   "version": "1.0.0",
-  "description": "multipart middleware for koa2 only",
+  "description": "multiparty middleware for koa2 only",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/*.test.js --reporter spec",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hong-boy/koa2-multipart.git"
+    "url": "git+https://github.com/hong-boy/koa2-multiparty.git"
   },
   "keywords": [
     "koa2",
@@ -21,9 +21,9 @@
   "author": "hong-boy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hong-boy/koa2-multipart/issues"
+    "url": "https://github.com/hong-boy/koa2-multiparty/issues"
   },
-  "homepage": "https://github.com/hong-boy/koa2-multipart#readme",
+  "homepage": "https://github.com/hong-boy/koa2-multiparty#readme",
   "dependencies": {
     "multiparty": "^4.1.3",
     "on-finished": "^2.3.0",

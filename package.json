@@ -1,6 +1,6 @@
 {
   "name": "koa2-multiparty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "multiparty middleware for koa2 only",
   "main": "index.js",
   "scripts": {

@@ -112,7 +112,7 @@ function multipart(options={}){
 
         try {
             await _parse(req);
-            next();
+            await next();
         } catch (e) {
             ctx.status = e.status||500;
             ctx.body = e;
